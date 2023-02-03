@@ -1,0 +1,44 @@
+TITULO PROBLEMAS TIPO 1
+PARÁMETROS
+$  par  val
+   L	1
+   P   -1000
+
+
+PUNTOS
+$punt	X	Y
+2      0	0
+3      L	0
+4	L/2	0
+
+
+LÍNEAS
+$lin	tipo	pun
+2	POL	2	4
+1	POL	4	3
+   
+
+PROPIEDADES
+%pro 	val1  		val2
+1   	4.762E-3	4.762E-05
+
+
+ELEMENTOS_LÍNEAS
+$ lin tipo  mat pro                       
+  TOD	RIG ACE  1
+
+
+
+DESPLAZAMIENTOS_GLOBALES_PUNTOS
+$ 	pun 	est 	DX     DY    
+  	2  	1     	0     	0     	0
+	3 	1	LIB	0	LIB 
+
+
+
+CARGAS_GLOBALES_PUNTOS
+% pun est FX   FY    MZ
+  4   1   0.0  P	0
+
+
+

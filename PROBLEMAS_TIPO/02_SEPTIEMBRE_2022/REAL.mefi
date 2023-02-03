@@ -1,0 +1,43 @@
+TITULO PROBLEMAS TIPO 2
+PARÁMETROS
+$  	par  val
+   	l	1
+	a	tan(pi/6) 
+
+PUNTOS
+$  punt   X     Y
+	1	0	0
+	2	a	0
+	3	2*a	0
+	4	0	-l
+	5	a	-l
+
+
+LÍNEAS
+$  	lin 	tipo  pun
+   	1	POL   	1 	5
+   	2	POL   	2 	5
+   	3	POL   	3 	5
+
+PROPIEDADES
+%pro 	val1  		val2
+1   	4.762E-3	4.762E-05
+2  	4.762E-3	
+
+
+ELEMENTOS_LÍNEAS
+$ 	lin 	tipo  		mat 	pro                       
+	TOD	ART		ACE	2
+
+
+DESPLAZAMIENTOS_GLOBALES_PUNTOS
+$	pun 	est 	DX     DY    
+	1  	1     	0     	0       
+	2  	1     	0     	0       
+	3  	1  	0     	0         
+
+CARGAS_GLOBALES_PUNTOS
+% pun est FX   FY    MZ
+  5   1   0.0  -1000000
+ 
+

@@ -1,0 +1,49 @@
+TITULO PROBLEMA TIPO 3. Isostático Eq.
+
+PARÁMETROS
+$par  	val
+L	1
+P1	0
+P2	0
+N5	-1
+RAIZ2	1.4142
+
+PUNTOS
+$punt  X     		Y
+1    	0   		0
+2      0    		L
+3      L   		L
+4	L		0
+
+LÍNEAS
+$lin  	tipo  	pun
+1	POL   	1 	2 
+2	POL   	2 	3
+3   	POL    3 	4
+4   	POL    4 	1
+$5   	POL    2 	4
+6   	POL    3 	1
+
+PROPIEDADES
+%pro 	val1  		val2
+1   	4.762E-6	4.762E-05
+2   	4.762E-3	
+3   	4.762E-04	4.762E-104
+
+ELEMENTOS_LÍNEAS
+$ lin tipo  mat pro                       
+  TOD ART ACE 2
+
+CARGAS_GLOBALES_PUNTOS
+% 	pun 	est 	FX   	FY    MZ
+  	2   	1   	0.0  	-P2
+	2	1	P1	0
+	2	1	N5/RAIZ2	-N5/RAIZ2
+	4	1	-N5/RAIZ2	N5/RAIZ2
+
+DESPLAZAMIENTOS_GLOBALES_PUNTOS
+%pun 	est 	DX    	DY    	GZ
+1   	1   	0.0   	0.0   
+4   	1   	0   	0
+
+

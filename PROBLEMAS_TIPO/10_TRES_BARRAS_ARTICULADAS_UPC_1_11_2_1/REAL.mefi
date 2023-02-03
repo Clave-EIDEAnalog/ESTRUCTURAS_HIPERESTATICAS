@@ -1,0 +1,43 @@
+ TITULO CEGOÑINO 11. 
+
+PARÁMETROS
+$par  	val
+h	1
+A	30
+TAN_A	0.57735
+B	60
+TAN_B	1.7320
+P	1000
+
+PUNTOS
+$punt  X     			Y
+1    	0   			0
+2      h*TAN_A		0
+3      h*TAN_B+h*TAN_A	0
+4	h*TAN_A		-h
+
+LÍNEAS
+$lin  	tipo  	pun
+1	POL   	1 	4 
+2	POL   	2 	4
+3   	POL    3 	4
+
+PROPIEDADES
+%pro 	val1  		val2
+1   	4.762E-6	4.762E-05
+2   	4.762E-3	
+3   	4.762E-04	4.762E-104
+
+ELEMENTOS_LÍNEAS
+$ lin tipo  mat pro                       
+  TOD ART ACE 2
+
+DESPLAZAMIENTOS_GLOBALES_PUNTOS
+%pun 	est 	DX    	DY    	GZ
+1   	1   	0.0   	0.0   
+2   	1   	0	0
+3	1	0	0
+
+CARGAS_GLOBALES_PUNTOS
+% pun est FX   FY    MZ
+  4   1   0.0  -P
