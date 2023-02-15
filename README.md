@@ -4,6 +4,8 @@ No se incluye la teoría básica para la resolución de los problemas, que el le
 La mayor parte de los problemas son, o bien de _examen_ en cursos anteriores al 2022 – 2023, o bien realizados en clase durante el citado curso. También se han incluido algunos problemas a título de enlace entre los anteriores cuando se ha entendido interesante para lograr una complicación progresiva de los mismos; buena parte de ellos se han sacado del libro de problemas _Cegoñino_(CG).
 Además de las fuentes citadas, se hace referencia a veces al -excelente- texto de la UPC “Mecánica de estructuras II. Métodos de análisis (Miguel Cervera Ruiz -UPC-)”, sobre todo para analizar alguno de los problemas resueltos -ejemplos- que incluye.
 
+**NOTA IMPORTANTE**: Las soluciones a los problemas están redactados a mano y son ficheros (los PDF que las contienen) extensos. Si la página ni deja verlos simplemente _pinchando_ en el nombre del fichero, dar a "Download" 
+
 
 ![INDICE_I](https://user-images.githubusercontent.com/64075009/218720476-a7913e48-b19f-4b49-83da-325d4476bcbc.jpg)
 ![INDICE_Ib](https://user-images.githubusercontent.com/64075009/218721461-33e98d48-dd33-4aa3-b13d-b72f93ed4673.jpg)
