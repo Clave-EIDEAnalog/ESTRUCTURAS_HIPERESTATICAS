@@ -1,0 +1,48 @@
+TITULO EXAMEN jul 2014
+
+PARÁMETROS
+$par  	val
+L	12
+H	6
+P	6000
+
+PUNTOS
+$punt	X    	Y
+1	0	H
+2	L	H
+3	L	0   
+4	0	0
+5	L/2	H/2
+
+LÍNEAS
+$lin	tipo	pun	pun
+1	POL   	4 	1 
+2	POL	4	3
+3	POL	3	2
+4	POL	2	1
+5	POL	1	5
+8	POL	5	2
+7	POL	5	3
+6	POL	4	5
+
+PROPIEDADES
+%pro 	val1  		val2
+1   	4.762E-6	4.762E-05
+2   	4.762E-4	
+3   	4.762E-04	4.762E-104
+
+
+ELEMENTOS_LÍNEAS
+$lin 	tipo  	mat 	pro                       
+TOD 	ART 	ACE 	2
+
+DESPLAZAMIENTOS_GLOBALES_PUNTOS
+$pun 	est 	DX	DY
+1  	1   	0  	0.0   
+4  	1   	0  	0   
+
+
+CARGAS_GLOBALES_PUNTOS
+%pun 	est 	FX   	FY    	MZ
+2   	1   	0.0  	-P	
+$1   	1   	0.0  	P
