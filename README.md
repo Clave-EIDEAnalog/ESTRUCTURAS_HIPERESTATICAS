@@ -12,6 +12,7 @@ Además de las fuentes citadas, se hace referencia a veces al -excelente- texto 
 ![INDICE_II](https://user-images.githubusercontent.com/64075009/218722984-df270c18-3aed-41fd-84d1-774827b33e14.jpg)
 ![INDICE_IIb](https://user-images.githubusercontent.com/64075009/218722998-338de010-d793-4cc1-95cc-363ca8cb4bdd.jpg)
 ![INDICE_III](https://user-images.githubusercontent.com/64075009/218723017-c45970d5-b479-4d98-8367-132c48b99940.jpg)
+![MEFI_25](https://user-images.githubusercontent.com/64075009/221239689-c2c6dde6-4886-4652-b988-f2000be26089.png)
 
 ## Estructuras articuladas.
 ### Estructuras resolubles utilizando solamente las deformaciones.
