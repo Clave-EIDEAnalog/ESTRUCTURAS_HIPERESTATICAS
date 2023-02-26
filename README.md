@@ -6,14 +6,11 @@ Además de las fuentes citadas, se hace referencia a veces al -excelente- texto 
 
 **NOTA IMPORTANTE**: Las soluciones a los problemas están redactados a mano y son ficheros (los PDF que las contienen) extensos. Si la página ni deja verlos simplemente _pinchando_ en el nombre del fichero, dar a "Download" 
 
-
-![INDICE_I](https://user-images.githubusercontent.com/64075009/218720476-a7913e48-b19f-4b49-83da-325d4476bcbc.jpg)
-![INDICE_Ib](https://user-images.githubusercontent.com/64075009/218721461-33e98d48-dd33-4aa3-b13d-b72f93ed4673.jpg)
-![INDICE_II](https://user-images.githubusercontent.com/64075009/218722984-df270c18-3aed-41fd-84d1-774827b33e14.jpg)
-![INDICE_IIb](https://user-images.githubusercontent.com/64075009/218722998-338de010-d793-4cc1-95cc-363ca8cb4bdd.jpg)
-![INDICE_III](https://user-images.githubusercontent.com/64075009/218723017-c45970d5-b479-4d98-8367-132c48b99940.jpg)
-![MEFI_25](https://user-images.githubusercontent.com/64075009/221239689-c2c6dde6-4886-4652-b988-f2000be26089.png)
-![MEFI_25 - copia](https://user-images.githubusercontent.com/64075009/221240088-fa58d0bd-2156-4614-a3c9-daff8abf6097.png)
+![INDICE_I_16_100](https://user-images.githubusercontent.com/64075009/221405862-e72e4939-bea8-4da3-aca0-53bbb3136744.jpg)
+![INDICE_Ib_16_100](https://user-images.githubusercontent.com/64075009/221405873-0f058fd2-1555-42f3-bd2f-47cba5e1e67b.jpg)
+![INDICE_II_16_100](https://user-images.githubusercontent.com/64075009/221405879-6db0d2e6-e76b-4264-9927-5245cb1d7c11.jpg)
+![INDICE_IIb_16_100](https://user-images.githubusercontent.com/64075009/221405884-2fc8fe59-05e2-4735-8021-b3760bfd8ebc.jpg)
+![INDICE_III_16_100](https://user-images.githubusercontent.com/64075009/221405886-1e5d57fa-b4ec-4b67-929d-ff1b7250d0b7.jpg)
 
 ## Estructuras articuladas.
 ### Estructuras resolubles utilizando solamente las deformaciones.
