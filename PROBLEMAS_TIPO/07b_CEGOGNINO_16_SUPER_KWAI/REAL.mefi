@@ -1,0 +1,60 @@
+TITULO CEGOÑINO 16
+
+PARÁMETROS
+$par  	val
+L	1
+P	10
+A	-1.4637e-6
+
+PUNTOS
+$punt  X     		Y
+1    	0   		0
+2      L		0
+3      2*L   		0
+4	3*L		0
+5	4*L		0
+6	0		2*L
+7	L		L
+8	3*L		L
+9	4*L		2*L
+
+LÍNEAS
+$lin  	tipo  	pun
+1	POL   	1 	2 
+2	POL   	2	3
+3   	POL    3 	4
+4   	POL    4 	5
+5   	POL    6 	7
+6   	POL    7	8
+7	POL	8	9
+8	POL	7	2
+9	POL	8	4
+10	POL	7	3
+11	POL	8	3
+12	POL	1	7
+13	POL	5	8
+
+PROPIEDADES
+%pro 	val1  		val2
+2   	7.85e-5	
+
+ELEMENTOS_LÍNEAS
+$ lin tipo  mat pro                       
+  TOD ART ACE 2
+
+DESPLAZAMIENTOS_GLOBALES_PUNTOS
+%pun 	est 	DX    	DY    	GZ
+1   	1   	0.0   	0.0   
+5   	1   	0	0
+6   	1   	0	0
+9   	1   	0	0
+
+CARGAS_GLOBALES_PUNTOS
+% 	pun 	est 	FX   	FY    	MZ
+	3   	1   	0.0  	-P
+
+CARGAS_AJUSTE_LÍNEAS
+% lín est falA
+  5   1   A
+  7   1   A
+
