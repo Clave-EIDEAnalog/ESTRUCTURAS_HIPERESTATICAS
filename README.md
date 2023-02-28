@@ -39,7 +39,7 @@ El PTV tiene una demostración en la que se manejan conceptos matemáticos de ci
 16 → 2 → 5 → 4 → 3 → 18 → 17 → 11 → 19
 
 ### Dilataciones. Errores de montaje (barras más cortas o largas del nominal). Ajustes con tensores.
-Estos problemas son variantes de los del párrafo anterior y, en principio, no tienen más secreto que saber dónde se introducen estos parámetros -Dilataciones. Errores de montaje (barras más cortas o largas del nominal). Ajustes con tensores- y resolver las ecuaciones resultantes. Como en el caso anterior hay que resolver varios para ir cogiendoles el _tranquillo_:
+Estos problemas son variantes de los del párrafo anterior y, en principio, no tienen más secreto que saber dónde se introducen estos parámetros -Dilataciones. Errores de montaje (barras más cortas o largas del nominal). Ajustes con tensores- y resolver las ecuaciones resultantes. Como en el caso anterior hay que resolver varios para ir cogiendoles el _tranquillo_. (Ni que decir tiene que hay que dominar los problemas del punto anterior -al menos los que NO tienen ni errores ni dilatacones- antes de meterse con estos):
 
 6 → 3 → 7b →  17 → 19 (¡Ojo al 13 que engaña!. En realidad se resuelve de otra forma).
 
